@@ -1,6 +1,8 @@
 #include <string>
 using std::string;
 
+
+// Source: https://github.com/first20hours/google-10000-english/blob/master/google-10000-english.txt
 const string common_words[10000] {
 "the           ",
 "of            ",
